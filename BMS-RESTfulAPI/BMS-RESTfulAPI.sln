@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS-RESTfulAPI", "BMS-RESTfulAPI.csproj", "{27336F09-22BC-42A1-9896-D37EFFB82748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27336F09-22BC-42A1-9896-D37EFFB82748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27336F09-22BC-42A1-9896-D37EFFB82748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27336F09-22BC-42A1-9896-D37EFFB82748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27336F09-22BC-42A1-9896-D37EFFB82748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADFCD383-E4D3-40CB-B785-4649247E5A04}
+	EndGlobalSection
+EndGlobal

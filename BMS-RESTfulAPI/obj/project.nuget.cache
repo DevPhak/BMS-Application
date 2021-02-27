@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJ3duTjzO74ji885qP7Nl4/slPr/h51q9qJJKm6graW0Grii24P4Kd/b5jrMtRh3IlbItr9PpANWmidO4vvsrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project-Development\\BMS-Application\\BMS-RESTfulAPI\\BMS-RESTfulAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ITD-PHAK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
